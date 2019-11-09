@@ -1,0 +1,17 @@
+<cc_config>
+   <log_flags>
+        <task>0</task>
+        <work_fetch_debug>0</work_fetch_debug>
+        <sched_ops>1</sched_ops>
+        <file_xfer>1</file_xfer>
+        <file_xfer_debug>0</file_xfer_debug>
+        <mw_debug>0</mw_debug>
+   </log_flags>
+   <options>
+      <use_all_gpus>1</use_all_gpus>
+      <allow_remote_gui_rpc>1</allow_remote_gui_rpc>
+      <mw_low_water_pct>1</mw_low_water_pct>
+      <mw_high_water_pct>16</mw_high_water_pct>
+      <mw_wait_interval>256</mw_wait_interval>
+    </options>
+</cc_config>
