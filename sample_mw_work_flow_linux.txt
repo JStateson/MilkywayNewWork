@@ -1,0 +1,265 @@
+jysdualxeon
+
+1			11/9/2019 10:38:35 AM	Starting BOINC client version 7.15.0 for x86_64-pc-linux-gnu	
+2			11/9/2019 10:38:35 AM	This a development version of BOINC and may not function properly	
+3			11/9/2019 10:38:35 AM	log flags: file_xfer, sched_ops	
+4			11/9/2019 10:38:35 AM	Libraries: libcurl/7.58.0 GnuTLS/3.5.18 zlib/1.2.11 libidn2/2.0.4 libpsl/0.19.1 (+libidn2/2.0.4) nghttp2/1.30.0 librtmp/2.3	
+5			11/9/2019 10:38:35 AM	Data directory: /var/lib/boinc-client	
+6			11/9/2019 10:38:35 AM	OpenCL: AMD/ATI GPU 0: Radeon RX 570 Series (driver version 2906.7, device version OpenCL 1.2 AMD-APP (2906.7), 4036MB, 4036MB available, 5095 GFLOPS peak)	
+7			11/9/2019 10:38:35 AM	OpenCL: AMD/ATI GPU 1: Radeon RX 570 Series (driver version 2906.7, device version OpenCL 1.2 AMD-APP (2906.7), 4076MB, 4076MB available, 5243 GFLOPS peak)	
+8			11/9/2019 10:38:35 AM	[libc detection] gathered: 2.27, Ubuntu GLIBC 2.27-3ubuntu1	
+9			11/9/2019 10:38:35 AM	Host name: jysdualxeon	
+10			11/9/2019 10:38:35 AM	Processor: 24 GenuineIntel Intel(R) Xeon(R) CPU X5675 @ 3.07GHz [Family 6 Model 44 Stepping 2]	
+11			11/9/2019 10:38:35 AM	Processor features: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmper	
+12			11/9/2019 10:38:35 AM	OS: Linux Ubuntu: Ubuntu 18.04.3 LTS [5.0.0-32-generic|libc 2.27 (Ubuntu GLIBC 2.27-3ubuntu1)]	
+13			11/9/2019 10:38:35 AM	Memory: 11.71 GB physical, 2.00 GB virtual	
+14			11/9/2019 10:38:35 AM	Disk: 228.23 GB total, 204.50 GB free	
+15			11/9/2019 10:38:35 AM	Local time is UTC -6 hours	
+16	Milkyway@Home	11/9/2019 10:38:35 AM	Found app_config.xml	
+17	Milkyway@Home	11/9/2019 10:38:35 AM	Max 50 concurrent jobs	
+18			11/9/2019 10:38:35 AM	Config: GUI RPC allowed from any host	
+19			11/9/2019 10:38:35 AM	Config: GUI RPCs allowed from:	
+20			11/9/2019 10:38:35 AM	    jysarea51	
+21			11/9/2019 10:38:35 AM	    jystablet	
+22			11/9/2019 10:38:35 AM	Config: use all coprocessors	
+23			11/9/2019 10:38:36 AM	General prefs: from http://einstein.phys.uwm.edu/ (last modified 29-Sep-2019 21:11:59)	
+24			11/9/2019 10:38:36 AM	Host location: none	
+25			11/9/2019 10:38:36 AM	General prefs: using your defaults	
+26			11/9/2019 10:38:36 AM	Reading preferences override file	
+27			11/9/2019 10:38:36 AM	Preferences:	
+28			11/9/2019 10:38:36 AM	   max memory usage when active: 11393.97 MB	
+29			11/9/2019 10:38:36 AM	   max memory usage when idle: 11393.97 MB	
+30			11/9/2019 10:38:36 AM	   max disk usage: 114.11 GB	
+31			11/9/2019 10:38:36 AM	   max CPUs used: 19	
+32			11/9/2019 10:38:36 AM	   (to change preferences, visit a project web site or select Preferences in the Manager)	
+33			11/9/2019 10:38:36 AM	Setting up project and slot directories	
+34			11/9/2019 10:38:36 AM	Checking active tasks	
+35	Milkyway@Home	11/9/2019 10:38:36 AM	URL http://milkyway.cs.rpi.edu/milkyway/; Computer ID 816532; resource share 100	
+36	Milkyway@Home	11/9/2019 10:38:36 AM	Your settings do not allow fetching tasks for CPU.  To fix this, you can change Project Preferences on the project's web site.	
+37	World Community Grid	11/9/2019 10:38:36 AM	URL http://www.worldcommunitygrid.org/; Computer ID 5772830; resource share 100	
+38			11/9/2019 10:38:36 AM	Setting up GUI RPC socket	
+39			11/9/2019 10:38:36 AM	Can't resolve hostname in remote_hosts.cfg: jystablet	
+40			11/9/2019 10:38:36 AM	Checking presence of 636 project files	
+41	Milkyway@Home	11/9/2019 10:38:36 AM	Sending scheduler request: To fetch work.	
+42	Milkyway@Home	11/9/2019 10:38:36 AM	Reporting 2 completed tasks	
+43	Milkyway@Home	11/9/2019 10:38:36 AM	Requesting new tasks for AMD/ATI GPU	
+44	Milkyway@Home	11/9/2019 10:38:39 AM	Scheduler request completed: got 0 new tasks	
+45			11/9/2019 10:40:17 AM	Re-reading cc_config.xml	
+46			11/9/2019 10:40:17 AM	Config: GUI RPC allowed from any host	
+47			11/9/2019 10:40:17 AM	Config: GUI RPCs allowed from:	
+48			11/9/2019 10:40:17 AM	    jysarea51	
+49			11/9/2019 10:40:17 AM	    jystablet	
+50			11/9/2019 10:40:17 AM	Config: use all coprocessors	
+51			11/9/2019 10:40:17 AM	log flags: file_xfer, sched_ops, mw_debug	
+52	Milkyway@Home	11/9/2019 10:40:17 AM	Found app_config.xml	
+53			11/9/2019 10:40:45 AM	[MILKYWAY] InProgress:  261.86  NotStarted: 117551.92 high:18808.3  low:1175.5	
+54			11/9/2019 10:40:45 AM	[MW] TOD:1573317645.71  Attach: false  Elapsed: 129.48	
+55			11/9/2019 10:40:45 AM	[MW] Milkyway@Home  Attach: false Number Attached:2  Elapsed: 129.48	
+56	Milkyway@Home	11/9/2019 10:40:45 AM	Sending scheduler request: To fetch work.	
+57	Milkyway@Home	11/9/2019 10:40:45 AM	Reporting 2 completed tasks	
+58	Milkyway@Home	11/9/2019 10:40:45 AM	Requesting new tasks for AMD/ATI GPU	
+59	Milkyway@Home	11/9/2019 10:40:47 AM	Scheduler request completed: got 5 new tasks	
+60			11/9/2019 10:42:19 AM	[MILKYWAY] InProgress:  484.10  NotStarted: 117426.52 high:18788.2  low:1174.3	
+61			11/9/2019 10:42:19 AM	[MW] TOD:1573317739.29  Attach: false  Elapsed: 223.06	
+62			11/9/2019 10:42:19 AM	[MW] Milkyway@Home  Attach: false Number Attached:2  Elapsed: 223.06	
+63	Milkyway@Home	11/9/2019 10:42:19 AM	Sending scheduler request: To fetch work.	
+64	Milkyway@Home	11/9/2019 10:42:19 AM	Reporting 2 completed tasks	
+65	Milkyway@Home	11/9/2019 10:42:19 AM	Requesting new tasks for AMD/ATI GPU	
+66	Milkyway@Home	11/9/2019 10:42:20 AM	Scheduler request completed: got 3 new tasks	
+67			11/9/2019 10:43:55 AM	[MW] TOD:1573317835.89  Attach: true  Elapsed: 319.66	
+68			11/9/2019 10:43:55 AM	[MW] Milkyway@Home  Attach: true Number Attached:4  Elapsed: 319.66	
+69	Milkyway@Home	11/9/2019 10:43:56 AM	Sending scheduler request: To fetch work.	
+70	Milkyway@Home	11/9/2019 10:43:56 AM	Reporting 4 completed tasks	
+71	Milkyway@Home	11/9/2019 10:43:56 AM	Requesting new tasks for AMD/ATI GPU	
+72	Milkyway@Home	11/9/2019 10:43:58 AM	Scheduler request completed: got 0 new tasks	
+73			11/9/2019 10:45:29 AM	[MILKYWAY] InProgress:  502.47  NotStarted: 117226.77 high:18756.3  low:1172.3	
+74			11/9/2019 10:45:29 AM	[MW] TOD:1573317929.35  Attach: false  Elapsed:  93.46	
+75			11/9/2019 10:45:29 AM	[MW] Milkyway@Home  Attach: false Number Attached:4  Elapsed:  93.46	
+76	Milkyway@Home	11/9/2019 10:45:29 AM	Sending scheduler request: To fetch work.	
+77	Milkyway@Home	11/9/2019 10:45:29 AM	Reporting 4 completed tasks	
+78	Milkyway@Home	11/9/2019 10:45:29 AM	Requesting new tasks for AMD/ATI GPU	
+79	Milkyway@Home	11/9/2019 10:45:31 AM	Scheduler request completed: got 4 new tasks	
+80			11/9/2019 10:47:07 AM	[MILKYWAY] InProgress:  309.97  NotStarted: 117280.46 high:18764.9  low:1172.8	
+81			11/9/2019 10:47:07 AM	[MW] TOD:1573318027.39  Attach: false  Elapsed: 191.50	
+82			11/9/2019 10:47:07 AM	[MW] Milkyway@Home  Attach: false Number Attached:4  Elapsed: 191.50	
+83	Milkyway@Home	11/9/2019 10:47:07 AM	Sending scheduler request: To fetch work.	
+84	Milkyway@Home	11/9/2019 10:47:07 AM	Reporting 4 completed tasks	
+85	Milkyway@Home	11/9/2019 10:47:07 AM	Requesting new tasks for AMD/ATI GPU	
+86	Milkyway@Home	11/9/2019 10:47:09 AM	Scheduler request completed: got 1 new tasks	
+87			11/9/2019 10:48:40 AM	[MW] TOD:1573318120.89  Attach: true  Elapsed: 285.00	
+88			11/9/2019 10:48:40 AM	[MW] Milkyway@Home  Attach: true Number Attached:8  Elapsed: 285.00	
+89	Milkyway@Home	11/9/2019 10:48:40 AM	Sending scheduler request: To fetch work.	
+90	Milkyway@Home	11/9/2019 10:48:40 AM	Reporting 8 completed tasks	
+91	Milkyway@Home	11/9/2019 10:48:40 AM	Requesting new tasks for AMD/ATI GPU	
+92	Milkyway@Home	11/9/2019 10:48:42 AM	Scheduler request completed: got 0 new tasks	
+93			11/9/2019 10:50:18 AM	[MILKYWAY] InProgress:  351.71  NotStarted: 116531.51 high:18645.0  low:1165.3	
+94			11/9/2019 10:50:18 AM	[MW] TOD:1573318218.85  Attach: false  Elapsed:  97.95	
+95			11/9/2019 10:50:18 AM	[MW] Milkyway@Home  Attach: false Number Attached:8  Elapsed:  97.95	
+96	Milkyway@Home	11/9/2019 10:50:18 AM	Sending scheduler request: To fetch work.	
+97	Milkyway@Home	11/9/2019 10:50:18 AM	Reporting 8 completed tasks	
+98	Milkyway@Home	11/9/2019 10:50:18 AM	Requesting new tasks for AMD/ATI GPU	
+99	Milkyway@Home	11/9/2019 10:50:20 AM	Scheduler request completed: got 4 new tasks	
+100			11/9/2019 10:51:52 AM	[MILKYWAY] InProgress:  368.11  NotStarted: 117503.14 high:18800.5  low:1175.0	
+101			11/9/2019 10:51:52 AM	[MW] TOD:1573318312.01  Attach: false  Elapsed: 191.12	
+102			11/9/2019 10:51:52 AM	[MW] Milkyway@Home  Attach: false Number Attached:8  Elapsed: 191.12	
+103	Milkyway@Home	11/9/2019 10:51:52 AM	Sending scheduler request: To fetch work.	
+104	Milkyway@Home	11/9/2019 10:51:52 AM	Reporting 8 completed tasks	
+105	Milkyway@Home	11/9/2019 10:51:52 AM	Requesting new tasks for AMD/ATI GPU	
+106	Milkyway@Home	11/9/2019 10:51:54 AM	Scheduler request completed: got 2 new tasks	
+107			11/9/2019 10:53:25 AM	[MW] TOD:1573318405.14  Attach: true  Elapsed: 284.25	
+108			11/9/2019 10:53:25 AM	[MW] Milkyway@Home  Attach: true Number Attached:5  Elapsed: 284.25	
+109	Milkyway@Home	11/9/2019 10:53:25 AM	Sending scheduler request: To fetch work.	
+110	Milkyway@Home	11/9/2019 10:53:25 AM	Reporting 5 completed tasks	
+111	Milkyway@Home	11/9/2019 10:53:25 AM	Requesting new tasks for AMD/ATI GPU	
+112	Milkyway@Home	11/9/2019 10:53:27 AM	Scheduler request completed: got 0 new tasks	
+113			11/9/2019 10:54:58 AM	[MILKYWAY] InProgress:  550.82  NotStarted: 116909.10 high:18705.5  low:1169.1	
+114			11/9/2019 10:54:58 AM	[MW] TOD:1573318498.66  Attach: false  Elapsed:  93.52	
+115			11/9/2019 10:54:58 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed:  93.52	
+116	Milkyway@Home	11/9/2019 10:54:58 AM	Sending scheduler request: To fetch work.	
+117	Milkyway@Home	11/9/2019 10:54:58 AM	Reporting 5 completed tasks	
+118	Milkyway@Home	11/9/2019 10:54:58 AM	Requesting new tasks for AMD/ATI GPU	
+119	Milkyway@Home	11/9/2019 10:55:00 AM	Scheduler request completed: got 5 new tasks	
+120			11/9/2019 10:56:37 AM	[MILKYWAY] InProgress:  519.28  NotStarted: 117723.08 high:18835.7  low:1177.2	
+121			11/9/2019 10:56:37 AM	[MW] TOD:1573318597.38  Attach: false  Elapsed: 192.24	
+122			11/9/2019 10:56:37 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed: 192.24	
+123	Milkyway@Home	11/9/2019 10:56:37 AM	Sending scheduler request: To fetch work.	
+124	Milkyway@Home	11/9/2019 10:56:37 AM	Reporting 5 completed tasks	
+125	Milkyway@Home	11/9/2019 10:56:37 AM	Requesting new tasks for AMD/ATI GPU	
+126	Milkyway@Home	11/9/2019 10:56:39 AM	Scheduler request completed: got 2 new tasks	
+127			11/9/2019 10:58:10 AM	[MW] TOD:1573318690.66  Attach: true  Elapsed: 285.52	
+128			11/9/2019 10:58:10 AM	[MW] Milkyway@Home  Attach: true Number Attached:6  Elapsed: 285.52	
+129	Milkyway@Home	11/9/2019 10:58:10 AM	Sending scheduler request: To fetch work.	
+130	Milkyway@Home	11/9/2019 10:58:10 AM	Reporting 6 completed tasks	
+131	Milkyway@Home	11/9/2019 10:58:10 AM	Requesting new tasks for AMD/ATI GPU	
+132	Milkyway@Home	11/9/2019 10:58:12 AM	Scheduler request completed: got 0 new tasks	
+133			11/9/2019 10:59:44 AM	[MILKYWAY] InProgress:  524.60  NotStarted: 117381.24 high:18781.0  low:1173.8	
+134			11/9/2019 10:59:44 AM	[MW] TOD:1573318784.09  Attach: false  Elapsed:  93.42	
+135			11/9/2019 10:59:44 AM	[MW] Milkyway@Home  Attach: false Number Attached:6  Elapsed:  93.42	
+136	Milkyway@Home	11/9/2019 10:59:44 AM	Sending scheduler request: To fetch work.	
+137	Milkyway@Home	11/9/2019 10:59:44 AM	Reporting 6 completed tasks	
+138	Milkyway@Home	11/9/2019 10:59:44 AM	Requesting new tasks for AMD/ATI GPU	
+139	Milkyway@Home	11/9/2019 10:59:46 AM	Scheduler request completed: got 4 new tasks	
+140			11/9/2019 11:01:21 AM	[MILKYWAY] InProgress:  128.15  NotStarted: 118037.83 high:18886.1  low:1180.4	
+141			11/9/2019 11:01:21 AM	[MW] TOD:1573318881.85  Attach: false  Elapsed: 191.19	
+142			11/9/2019 11:01:21 AM	[MW] Milkyway@Home  Attach: false Number Attached:6  Elapsed: 191.19	
+143	Milkyway@Home	11/9/2019 11:01:21 AM	Sending scheduler request: To fetch work.	
+144	Milkyway@Home	11/9/2019 11:01:21 AM	Reporting 6 completed tasks	
+145	Milkyway@Home	11/9/2019 11:01:21 AM	Requesting new tasks for AMD/ATI GPU	
+146	Milkyway@Home	11/9/2019 11:01:23 AM	Scheduler request completed: got 0 new tasks	
+147			11/9/2019 11:02:55 AM	[MW] TOD:1573318975.57  Attach: true  Elapsed: 284.91	
+148			11/9/2019 11:02:55 AM	[MW] Milkyway@Home  Attach: true Number Attached:7  Elapsed: 284.91	
+149	Milkyway@Home	11/9/2019 11:02:55 AM	Sending scheduler request: To fetch work.	
+150	Milkyway@Home	11/9/2019 11:02:55 AM	Reporting 7 completed tasks	
+151	Milkyway@Home	11/9/2019 11:02:55 AM	Requesting new tasks for AMD/ATI GPU	
+152	Milkyway@Home	11/9/2019 11:02:57 AM	Scheduler request completed: got 0 new tasks	
+153	World Community Grid	11/9/2019 11:03:29 AM	Started upload of MIP1_00241822_0660_0_r1981032775_0	
+154	World Community Grid	11/9/2019 11:03:32 AM	Finished upload of MIP1_00241822_0660_0_r1981032775_0	
+155			11/9/2019 11:05:04 AM	[MILKYWAY] InProgress:  268.11  NotStarted: 117047.61 high:18727.6  low:1170.5	
+156			11/9/2019 11:05:04 AM	[MW] TOD:1573319103.96  Attach: false  Elapsed: 128.39	
+157			11/9/2019 11:05:04 AM	[MW] Milkyway@Home  Attach: false Number Attached:7  Elapsed: 128.39	
+158	Milkyway@Home	11/9/2019 11:05:04 AM	Sending scheduler request: To fetch work.	
+159	Milkyway@Home	11/9/2019 11:05:04 AM	Reporting 7 completed tasks	
+160	Milkyway@Home	11/9/2019 11:05:04 AM	Requesting new tasks for AMD/ATI GPU	
+161	Milkyway@Home	11/9/2019 11:05:06 AM	Scheduler request completed: got 5 new tasks	
+162			11/9/2019 11:06:37 AM	[MILKYWAY] InProgress:  481.53  NotStarted: 117225.80 high:18756.1  low:1172.3	
+163			11/9/2019 11:06:37 AM	[MW] TOD:1573319197.35  Attach: false  Elapsed: 221.78	
+164			11/9/2019 11:06:37 AM	[MW] Milkyway@Home  Attach: false Number Attached:7  Elapsed: 221.78	
+165	Milkyway@Home	11/9/2019 11:06:37 AM	Sending scheduler request: To fetch work.	
+166	Milkyway@Home	11/9/2019 11:06:37 AM	Reporting 7 completed tasks	
+167	Milkyway@Home	11/9/2019 11:06:37 AM	Requesting new tasks for AMD/ATI GPU	
+168	Milkyway@Home	11/9/2019 11:06:39 AM	Scheduler request completed: got 3 new tasks	
+169			11/9/2019 11:08:15 AM	[MW] TOD:1573319295.37  Attach: true  Elapsed: 319.80	
+170			11/9/2019 11:08:15 AM	[MW] Milkyway@Home  Attach: true Number Attached:5  Elapsed: 319.80	
+171	Milkyway@Home	11/9/2019 11:08:15 AM	Sending scheduler request: To fetch work.	
+172	Milkyway@Home	11/9/2019 11:08:15 AM	Reporting 5 completed tasks	
+173	Milkyway@Home	11/9/2019 11:08:15 AM	Requesting new tasks for AMD/ATI GPU	
+174	Milkyway@Home	11/9/2019 11:08:17 AM	Scheduler request completed: got 0 new tasks	
+175			11/9/2019 11:09:48 AM	[MILKYWAY] InProgress:  459.43  NotStarted: 117027.14 high:18724.3  low:1170.3	
+176			11/9/2019 11:09:48 AM	[MW] TOD:1573319388.77  Attach: false  Elapsed:  93.40	
+177			11/9/2019 11:09:48 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed:  93.40	
+178	Milkyway@Home	11/9/2019 11:09:48 AM	Sending scheduler request: To fetch work.	
+179	Milkyway@Home	11/9/2019 11:09:48 AM	Reporting 5 completed tasks	
+180	Milkyway@Home	11/9/2019 11:09:48 AM	Requesting new tasks for AMD/ATI GPU	
+181	Milkyway@Home	11/9/2019 11:09:50 AM	Scheduler request completed: got 4 new tasks	
+182			11/9/2019 11:11:26 AM	[MILKYWAY] InProgress:  251.87  NotStarted: 117966.76 high:18874.7  low:1179.7	
+183			11/9/2019 11:11:26 AM	[MW] TOD:1573319486.58  Attach: false  Elapsed: 191.21	
+184			11/9/2019 11:11:26 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed: 191.21	
+185	Milkyway@Home	11/9/2019 11:11:26 AM	Sending scheduler request: To fetch work.	
+186	Milkyway@Home	11/9/2019 11:11:26 AM	Reporting 5 completed tasks	
+187	Milkyway@Home	11/9/2019 11:11:26 AM	Requesting new tasks for AMD/ATI GPU	
+188	Milkyway@Home	11/9/2019 11:11:28 AM	Scheduler request completed: got 1 new tasks	
+189	World Community Grid	11/9/2019 11:12:23 AM	Started upload of MIP1_00241826_0238_0_r573726901_0	
+190	World Community Grid	11/9/2019 11:12:25 AM	Finished upload of MIP1_00241826_0238_0_r573726901_0	
+191			11/9/2019 11:13:00 AM	[MW] TOD:1573319580.41  Attach: true  Elapsed: 285.04	
+192			11/9/2019 11:13:00 AM	[MW] Milkyway@Home  Attach: true Number Attached:7  Elapsed: 285.04	
+193	Milkyway@Home	11/9/2019 11:13:00 AM	Sending scheduler request: To fetch work.	
+194	Milkyway@Home	11/9/2019 11:13:00 AM	Reporting 7 completed tasks	
+195	Milkyway@Home	11/9/2019 11:13:00 AM	Requesting new tasks for AMD/ATI GPU	
+196	Milkyway@Home	11/9/2019 11:13:02 AM	Scheduler request completed: got 0 new tasks	
+197			11/9/2019 11:14:33 AM	[MILKYWAY] InProgress:  282.50  NotStarted: 117341.86 high:18774.7  low:1173.4	
+198			11/9/2019 11:14:33 AM	[MW] TOD:1573319673.53  Attach: false  Elapsed:  93.12	
+199			11/9/2019 11:14:33 AM	[MW] Milkyway@Home  Attach: false Number Attached:7  Elapsed:  93.12	
+200	Milkyway@Home	11/9/2019 11:14:33 AM	Sending scheduler request: To fetch work.	
+201	Milkyway@Home	11/9/2019 11:14:33 AM	Reporting 7 completed tasks	
+202	Milkyway@Home	11/9/2019 11:14:33 AM	Requesting new tasks for AMD/ATI GPU	
+203	Milkyway@Home	11/9/2019 11:14:35 AM	Scheduler request completed: got 4 new tasks	
+204			11/9/2019 11:16:06 AM	[MILKYWAY] InProgress:  486.81  NotStarted: 117516.44 high:18802.6  low:1175.2	
+205			11/9/2019 11:16:06 AM	[MW] TOD:1573319766.89  Attach: false  Elapsed: 186.49	
+206			11/9/2019 11:16:06 AM	[MW] Milkyway@Home  Attach: false Number Attached:7  Elapsed: 186.49	
+207	Milkyway@Home	11/9/2019 11:16:07 AM	Sending scheduler request: To fetch work.	
+208	Milkyway@Home	11/9/2019 11:16:07 AM	Reporting 7 completed tasks	
+209	Milkyway@Home	11/9/2019 11:16:07 AM	Requesting new tasks for AMD/ATI GPU	
+210	Milkyway@Home	11/9/2019 11:16:09 AM	Scheduler request completed: got 3 new tasks	
+211			11/9/2019 11:17:45 AM	[MW] TOD:1573319864.97  Attach: true  Elapsed: 284.56	
+212			11/9/2019 11:17:45 AM	[MW] Milkyway@Home  Attach: true Number Attached:5  Elapsed: 284.56	
+213	Milkyway@Home	11/9/2019 11:17:45 AM	Sending scheduler request: To fetch work.	
+214	Milkyway@Home	11/9/2019 11:17:45 AM	Reporting 5 completed tasks	
+215	Milkyway@Home	11/9/2019 11:17:45 AM	Requesting new tasks for AMD/ATI GPU	
+216	Milkyway@Home	11/9/2019 11:17:47 AM	Scheduler request completed: got 0 new tasks	
+217			11/9/2019 11:19:18 AM	[MILKYWAY] InProgress:  508.30  NotStarted: 117317.60 high:18770.8  low:1173.2	
+218			11/9/2019 11:19:18 AM	[MW] TOD:1573319958.20  Attach: false  Elapsed:  93.23	
+219			11/9/2019 11:19:18 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed:  93.23	
+220	Milkyway@Home	11/9/2019 11:19:18 AM	Sending scheduler request: To fetch work.	
+221	Milkyway@Home	11/9/2019 11:19:18 AM	Reporting 5 completed tasks	
+222	Milkyway@Home	11/9/2019 11:19:18 AM	Requesting new tasks for AMD/ATI GPU	
+223	Milkyway@Home	11/9/2019 11:19:20 AM	Scheduler request completed: got 4 new tasks	
+224			11/9/2019 11:20:56 AM	[MILKYWAY] InProgress:  278.67  NotStarted: 117860.59 high:18857.7  low:1178.6	
+225			11/9/2019 11:20:56 AM	[MW] TOD:1573320056.04  Attach: false  Elapsed: 191.07	
+226			11/9/2019 11:20:56 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed: 191.07	
+227	Milkyway@Home	11/9/2019 11:20:56 AM	Sending scheduler request: To fetch work.	
+228	Milkyway@Home	11/9/2019 11:20:56 AM	Reporting 5 completed tasks	
+229	Milkyway@Home	11/9/2019 11:20:56 AM	Requesting new tasks for AMD/ATI GPU	
+230	Milkyway@Home	11/9/2019 11:20:59 AM	Scheduler request completed: got 1 new tasks	
+231			11/9/2019 11:22:30 AM	[MW] TOD:1573320150.43  Attach: true  Elapsed: 285.46	
+232			11/9/2019 11:22:30 AM	[MW] Milkyway@Home  Attach: true Number Attached:7  Elapsed: 285.46	
+233	Milkyway@Home	11/9/2019 11:22:30 AM	Sending scheduler request: To fetch work.	
+234	Milkyway@Home	11/9/2019 11:22:30 AM	Reporting 7 completed tasks	
+235	Milkyway@Home	11/9/2019 11:22:30 AM	Requesting new tasks for AMD/ATI GPU	
+236	Milkyway@Home	11/9/2019 11:22:32 AM	Scheduler request completed: got 0 new tasks	
+237			11/9/2019 11:24:08 AM	[MILKYWAY] InProgress:  275.80  NotStarted: 117264.69 high:18762.4  low:1172.6	
+238			11/9/2019 11:24:08 AM	[MW] TOD:1573320248.37  Attach: false  Elapsed:  97.94	
+239			11/9/2019 11:24:08 AM	[MW] Milkyway@Home  Attach: false Number Attached:7  Elapsed:  97.94	
+240	Milkyway@Home	11/9/2019 11:24:08 AM	Sending scheduler request: To fetch work.	
+241	Milkyway@Home	11/9/2019 11:24:08 AM	Reporting 7 completed tasks	
+242	Milkyway@Home	11/9/2019 11:24:08 AM	Requesting new tasks for AMD/ATI GPU	
+243	Milkyway@Home	11/9/2019 11:24:10 AM	Scheduler request completed: got 4 new tasks	
+244			11/9/2019 11:25:41 AM	[MILKYWAY] InProgress:  494.49  NotStarted: 117326.92 high:18772.3  low:1173.3	
+245			11/9/2019 11:25:41 AM	[MW] TOD:1573320341.72  Attach: false  Elapsed: 191.30	
+246			11/9/2019 11:25:41 AM	[MW] Milkyway@Home  Attach: false Number Attached:7  Elapsed: 191.30	
+247	Milkyway@Home	11/9/2019 11:25:41 AM	Sending scheduler request: To fetch work.	
+248	Milkyway@Home	11/9/2019 11:25:41 AM	Reporting 7 completed tasks	
+249	Milkyway@Home	11/9/2019 11:25:41 AM	Requesting new tasks for AMD/ATI GPU	
+250	Milkyway@Home	11/9/2019 11:25:43 AM	Scheduler request completed: got 3 new tasks	
+251			11/9/2019 11:27:19 AM	[MW] TOD:1573320439.75  Attach: true  Elapsed: 289.33	
+252			11/9/2019 11:27:19 AM	[MW] Milkyway@Home  Attach: true Number Attached:5  Elapsed: 289.33	
+253	Milkyway@Home	11/9/2019 11:27:19 AM	Sending scheduler request: To fetch work.	
+254	Milkyway@Home	11/9/2019 11:27:19 AM	Reporting 5 completed tasks	
+255	Milkyway@Home	11/9/2019 11:27:19 AM	Requesting new tasks for AMD/ATI GPU	
+256	Milkyway@Home	11/9/2019 11:27:21 AM	Scheduler request completed: got 0 new tasks	
+257			11/9/2019 11:28:53 AM	[MILKYWAY] InProgress:  528.28  NotStarted: 117128.41 high:18740.5  low:1171.3	
+258			11/9/2019 11:28:53 AM	[MW] TOD:1573320532.94  Attach: false  Elapsed:  93.18	
+259			11/9/2019 11:28:53 AM	[MW] Milkyway@Home  Attach: false Number Attached:5  Elapsed:  93.18	
+260	Milkyway@Home	11/9/2019 11:28:53 AM	Sending scheduler request: To fetch work.	
+261	Milkyway@Home	11/9/2019 11:28:53 AM	Reporting 5 completed tasks	
+262	Milkyway@Home	11/9/2019 11:28:53 AM	Requesting new tasks for AMD/ATI GPU	
+263	Milkyway@Home	11/9/2019 11:28:54 AM	Scheduler request completed: got 4 new tasks	
