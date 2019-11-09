@@ -1,0 +1,136 @@
+z400-2
+
+1			11/9/2019 7:16:56 AM	Starting BOINC client version 7.15.0 for windows_x86_64	
+2			11/9/2019 7:16:56 AM	This a development version of BOINC and may not function properly	
+3			11/9/2019 7:16:56 AM	log flags: file_xfer, sched_ops	
+4			11/9/2019 7:16:56 AM	Libraries: libcurl/7.47.1 OpenSSL/1.0.2g zlib/1.2.8	
+5			11/9/2019 7:16:56 AM	Data directory: C:\ProgramData\BOINC	
+6			11/9/2019 7:16:56 AM	Running under account josephy@stateson.net	
+7			11/9/2019 7:16:57 AM	OpenCL: AMD/ATI GPU 0: Radeon RX 560 Series (driver version 2841.19, device version OpenCL 2.0 AMD-APP (2841.19), 4096MB, 4096MB available, 1802 GFLOPS peak)	
+8			11/9/2019 7:16:57 AM	OpenCL: AMD/ATI GPU 1: AMD Radeon HD 7900 Series (driver version 2841.19, device version OpenCL 1.2 AMD-APP (2841.19), 3072MB, 3072MB available, 3604 GFLOPS peak)	
+9			11/9/2019 7:16:57 AM	OpenCL: AMD/ATI GPU 2: Radeon RX 560 Series (driver version 2841.19, device version OpenCL 2.0 AMD-APP (2841.19), 4096MB, 4096MB available, 1802 GFLOPS peak)	
+10			11/9/2019 7:16:57 AM	OpenCL: AMD/ATI GPU 3: Radeon RX 580 Series (driver version 2841.19, device version OpenCL 2.0 AMD-APP (2841.19), 8192MB, 8192MB available, 4055 GFLOPS peak)	
+11			11/9/2019 7:16:57 AM	Host name: z400-2	
+12			11/9/2019 7:16:57 AM	Processor: 2 GenuineIntel Intel(R) Celeron(R) CPU G1840 @ 2.80GHz [Family 6 Model 60 Stepping 3]	
+13			11/9/2019 7:16:57 AM	Processor features: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss htt tm pni ssse3 cx16 sse4_1 sse4_2 movebe popcnt rdrandsyscall nx lm vmx tm2 pbe fsgsbase	
+14			11/9/2019 7:16:57 AM	OS: Microsoft Windows 10: Professional x64 Edition, (10.00.17763.00)	
+15			11/9/2019 7:16:57 AM	Memory: 7.94 GB physical, 15.94 GB virtual	
+16			11/9/2019 7:16:57 AM	Disk: 232.32 GB total, 159.38 GB free	
+17			11/9/2019 7:16:57 AM	Local time is UTC -6 hours	
+18			11/9/2019 7:16:57 AM	No WSL found.	
+19			11/9/2019 7:16:57 AM	VirtualBox version: 6.0.8	
+20	Milkyway@Home	11/9/2019 7:16:57 AM	Found app_config.xml	
+21			11/9/2019 7:16:57 AM	Config: GUI RPC allowed from any host	
+22			11/9/2019 7:16:57 AM	Config: use all coprocessors	
+23			11/9/2019 7:17:02 AM	General prefs: from http://einstein.phys.uwm.edu/ (last modified 29-Sep-2019 21:11:59)	
+24			11/9/2019 7:17:02 AM	Host location: none	
+25			11/9/2019 7:17:02 AM	General prefs: using your defaults	
+26			11/9/2019 7:17:02 AM	Preferences:	
+27			11/9/2019 7:17:02 AM	   max memory usage when active: 7727.52 MB	
+28			11/9/2019 7:17:02 AM	   max memory usage when idle: 7727.52 MB	
+29			11/9/2019 7:17:02 AM	   max disk usage: 116.16 GB	
+30			11/9/2019 7:17:02 AM	   (to change preferences, visit a project web site or select Preferences in the Manager)	
+31			11/9/2019 7:17:02 AM	Setting up project and slot directories	
+32			11/9/2019 7:17:02 AM	Checking active tasks	
+33	Milkyway@Home	11/9/2019 7:17:02 AM	URL http://milkyway.cs.rpi.edu/milkyway/; Computer ID 818838; resource share 100	
+34	Milkyway@Home	11/9/2019 7:17:02 AM	Your settings do not allow fetching tasks for CPU.  To fix this, you can change Project Preferences on the project's web site.	
+35			11/9/2019 7:17:02 AM	Setting up GUI RPC socket	
+36			11/9/2019 7:17:02 AM	gui_rpc_auth.cfg is empty - no GUI RPC password protection	
+37			11/9/2019 7:17:02 AM	Checking presence of 19 project files	
+38	Milkyway@Home	11/9/2019 7:17:03 AM	Sending scheduler request: To fetch work.	
+39	Milkyway@Home	11/9/2019 7:17:03 AM	Reporting 8 completed tasks	
+40	Milkyway@Home	11/9/2019 7:17:03 AM	Requesting new tasks for AMD/ATI GPU	
+41	Milkyway@Home	11/9/2019 7:17:07 AM	Scheduler request completed: got 0 new tasks	
+42	Milkyway@Home	11/9/2019 7:17:07 AM	Not sending work - last request too recent: 70 sec	
+43	Milkyway@Home	11/9/2019 7:18:38 AM	Sending scheduler request: To fetch work.	
+44	Milkyway@Home	11/9/2019 7:18:38 AM	Reporting 8 completed tasks	
+45	Milkyway@Home	11/9/2019 7:18:38 AM	Requesting new tasks for AMD/ATI GPU	
+46	Milkyway@Home	11/9/2019 7:18:40 AM	Scheduler request completed: got 2 new tasks	
+47	Milkyway@Home	11/9/2019 7:20:13 AM	Sending scheduler request: To fetch work.	
+48	Milkyway@Home	11/9/2019 7:20:13 AM	Reporting 8 completed tasks	
+49	Milkyway@Home	11/9/2019 7:20:13 AM	Requesting new tasks for AMD/ATI GPU	
+50	Milkyway@Home	11/9/2019 7:20:16 AM	Scheduler request completed: got 6 new tasks	
+51	Milkyway@Home	11/9/2019 7:21:52 AM	Sending scheduler request: To fetch work.	
+52	Milkyway@Home	11/9/2019 7:21:52 AM	Reporting 9 completed tasks	
+53	Milkyway@Home	11/9/2019 7:21:52 AM	Requesting new tasks for AMD/ATI GPU	
+54	Milkyway@Home	11/9/2019 7:21:55 AM	Scheduler request completed: got 0 new tasks	
+55	Milkyway@Home	11/9/2019 7:23:27 AM	Sending scheduler request: To fetch work.	
+56	Milkyway@Home	11/9/2019 7:23:27 AM	Reporting 9 completed tasks	
+57	Milkyway@Home	11/9/2019 7:23:27 AM	Requesting new tasks for AMD/ATI GPU	
+58	Milkyway@Home	11/9/2019 7:23:29 AM	Scheduler request completed: got 6 new tasks	
+59	Milkyway@Home	11/9/2019 7:25:00 AM	Sending scheduler request: To fetch work.	
+60	Milkyway@Home	11/9/2019 7:25:00 AM	Reporting 9 completed tasks	
+61	Milkyway@Home	11/9/2019 7:25:00 AM	Requesting new tasks for AMD/ATI GPU	
+62	Milkyway@Home	11/9/2019 7:25:02 AM	Scheduler request completed: got 3 new tasks	
+63	Milkyway@Home	11/9/2019 7:26:34 AM	Sending scheduler request: To fetch work.	
+64	Milkyway@Home	11/9/2019 7:26:34 AM	Reporting 11 completed tasks	
+65	Milkyway@Home	11/9/2019 7:26:34 AM	Requesting new tasks for AMD/ATI GPU	
+66	Milkyway@Home	11/9/2019 7:26:36 AM	Scheduler request completed: got 0 new tasks	
+67	Milkyway@Home	11/9/2019 7:28:07 AM	Sending scheduler request: To fetch work.	
+68	Milkyway@Home	11/9/2019 7:28:07 AM	Reporting 11 completed tasks	
+69	Milkyway@Home	11/9/2019 7:28:07 AM	Requesting new tasks for AMD/ATI GPU	
+70	Milkyway@Home	11/9/2019 7:28:09 AM	Scheduler request completed: got 7 new tasks	
+71	Milkyway@Home	11/9/2019 7:29:41 AM	Sending scheduler request: To fetch work.	
+72	Milkyway@Home	11/9/2019 7:29:41 AM	Reporting 11 completed tasks	
+73	Milkyway@Home	11/9/2019 7:29:41 AM	Requesting new tasks for AMD/ATI GPU	
+74	Milkyway@Home	11/9/2019 7:29:44 AM	Scheduler request completed: got 4 new tasks	
+75	Milkyway@Home	11/9/2019 7:31:16 AM	Sending scheduler request: To fetch work.	
+76	Milkyway@Home	11/9/2019 7:31:16 AM	Reporting 10 completed tasks	
+77	Milkyway@Home	11/9/2019 7:31:16 AM	Requesting new tasks for AMD/ATI GPU	
+78	Milkyway@Home	11/9/2019 7:31:19 AM	Scheduler request completed: got 0 new tasks	
+79	Milkyway@Home	11/9/2019 7:32:50 AM	Sending scheduler request: To fetch work.	
+80	Milkyway@Home	11/9/2019 7:32:50 AM	Reporting 10 completed tasks	
+81	Milkyway@Home	11/9/2019 7:32:50 AM	Requesting new tasks for AMD/ATI GPU	
+82	Milkyway@Home	11/9/2019 7:32:53 AM	Scheduler request completed: got 6 new tasks	
+83	Milkyway@Home	11/9/2019 7:34:25 AM	Sending scheduler request: To fetch work.	
+84	Milkyway@Home	11/9/2019 7:34:25 AM	Reporting 10 completed tasks	
+85	Milkyway@Home	11/9/2019 7:34:25 AM	Requesting new tasks for AMD/ATI GPU	
+86	Milkyway@Home	11/9/2019 7:34:27 AM	Scheduler request completed: got 3 new tasks	
+87	Milkyway@Home	11/9/2019 7:35:58 AM	Sending scheduler request: To fetch work.	
+88	Milkyway@Home	11/9/2019 7:35:58 AM	Reporting 10 completed tasks	
+89	Milkyway@Home	11/9/2019 7:35:58 AM	Requesting new tasks for AMD/ATI GPU	
+90	Milkyway@Home	11/9/2019 7:36:01 AM	Scheduler request completed: got 0 new tasks	
+91	Milkyway@Home	11/9/2019 7:37:33 AM	Sending scheduler request: To fetch work.	
+92	Milkyway@Home	11/9/2019 7:37:33 AM	Reporting 10 completed tasks	
+93	Milkyway@Home	11/9/2019 7:37:33 AM	Requesting new tasks for AMD/ATI GPU	
+94	Milkyway@Home	11/9/2019 7:37:36 AM	Scheduler request completed: got 7 new tasks	
+95	Milkyway@Home	11/9/2019 7:39:07 AM	Sending scheduler request: To fetch work.	
+96	Milkyway@Home	11/9/2019 7:39:07 AM	Reporting 10 completed tasks	
+97	Milkyway@Home	11/9/2019 7:39:07 AM	Requesting new tasks for AMD/ATI GPU	
+98	Milkyway@Home	11/9/2019 7:39:12 AM	Scheduler request completed: got 3 new tasks	
+99	Milkyway@Home	11/9/2019 7:40:43 AM	Sending scheduler request: To fetch work.	
+100	Milkyway@Home	11/9/2019 7:40:43 AM	Reporting 10 completed tasks	
+101	Milkyway@Home	11/9/2019 7:40:43 AM	Requesting new tasks for AMD/ATI GPU	
+102	Milkyway@Home	11/9/2019 7:40:47 AM	Scheduler request completed: got 0 new tasks	
+103	Milkyway@Home	11/9/2019 7:42:18 AM	Sending scheduler request: To fetch work.	
+104	Milkyway@Home	11/9/2019 7:42:18 AM	Reporting 10 completed tasks	
+105	Milkyway@Home	11/9/2019 7:42:18 AM	Requesting new tasks for AMD/ATI GPU	
+106	Milkyway@Home	11/9/2019 7:42:22 AM	Scheduler request completed: got 9 new tasks	
+107	Milkyway@Home	11/9/2019 7:43:53 AM	Sending scheduler request: To fetch work.	
+108	Milkyway@Home	11/9/2019 7:43:53 AM	Reporting 10 completed tasks	
+109	Milkyway@Home	11/9/2019 7:43:53 AM	Requesting new tasks for AMD/ATI GPU	
+110	Milkyway@Home	11/9/2019 7:43:56 AM	Scheduler request completed: got 2 new tasks	
+111	Milkyway@Home	11/9/2019 7:45:28 AM	Sending scheduler request: To fetch work.	
+112	Milkyway@Home	11/9/2019 7:45:28 AM	Reporting 11 completed tasks	
+113	Milkyway@Home	11/9/2019 7:45:28 AM	Requesting new tasks for AMD/ATI GPU	
+114	Milkyway@Home	11/9/2019 7:45:31 AM	Scheduler request completed: got 0 new tasks	
+115	Milkyway@Home	11/9/2019 7:47:02 AM	Sending scheduler request: To fetch work.	
+116	Milkyway@Home	11/9/2019 7:47:02 AM	Reporting 11 completed tasks	
+117	Milkyway@Home	11/9/2019 7:47:02 AM	Requesting new tasks for AMD/ATI GPU	
+118	Milkyway@Home	11/9/2019 7:47:05 AM	Scheduler request completed: got 7 new tasks	
+119	Milkyway@Home	11/9/2019 7:48:37 AM	Sending scheduler request: To fetch work.	
+120	Milkyway@Home	11/9/2019 7:48:37 AM	Reporting 11 completed tasks	
+121	Milkyway@Home	11/9/2019 7:48:37 AM	Requesting new tasks for AMD/ATI GPU	
+122	Milkyway@Home	11/9/2019 7:48:40 AM	Scheduler request completed: got 3 new tasks	
+123	Milkyway@Home	11/9/2019 7:50:12 AM	Sending scheduler request: To fetch work.	
+124	Milkyway@Home	11/9/2019 7:50:12 AM	Reporting 10 completed tasks	
+125	Milkyway@Home	11/9/2019 7:50:12 AM	Requesting new tasks for AMD/ATI GPU	
+126	Milkyway@Home	11/9/2019 7:50:14 AM	Scheduler request completed: got 0 new tasks	
+127	Milkyway@Home	11/9/2019 7:51:45 AM	Sending scheduler request: To fetch work.	
+128	Milkyway@Home	11/9/2019 7:51:45 AM	Reporting 10 completed tasks	
+129	Milkyway@Home	11/9/2019 7:51:45 AM	Requesting new tasks for AMD/ATI GPU	
+130	Milkyway@Home	11/9/2019 7:51:48 AM	Scheduler request completed: got 7 new tasks	
+131	Milkyway@Home	11/9/2019 7:53:20 AM	Sending scheduler request: To fetch work.	
+132	Milkyway@Home	11/9/2019 7:53:20 AM	Reporting 10 completed tasks	
+133	Milkyway@Home	11/9/2019 7:53:20 AM	Requesting new tasks for AMD/ATI GPU	
+134	Milkyway@Home	11/9/2019 7:53:23 AM	Scheduler request completed: got 4 new tasks	
